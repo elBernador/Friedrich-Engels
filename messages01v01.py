@@ -7,4 +7,4 @@ Enthält alle Textnachrichten
 
 
 def badmessage():
-    return 'You are a bad guy'
+    return 'Du bist kein guter Junge'
